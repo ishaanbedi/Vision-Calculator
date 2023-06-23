@@ -7,7 +7,8 @@ Built with visionOS SDK, Swift, and SwiftUI
 ## Demo
 
 
-https://github.com/ishaanbedi/Vision-Calculator/assets/39641326/a5ddf051-35cb-4d3d-a766-1bfdec843dff
+https://github.com/ishaanbedi/Vision-Calculator/assets/39641326/555a3c23-5bb3-4c03-8b00-45856ce0646a
+
 
 This project, for now, utilizes most of the universal concepts available in SwiftUI. 
 
